@@ -122,7 +122,7 @@ int main()
 	return 0;
 }
 ```
-需要启动rpc_server，然后启动rpc_client，请求Strcat返回结果：
+需要启动rpc_server，然后启动rpc_client，请求Strcat和add返回结果：
 ```
 str=even24
 result=7
